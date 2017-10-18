@@ -3,7 +3,7 @@
 
 ### 点击下载主要文件
 
-<a href="import.zip"></a>
+<a href="import.zip">点击</a>
 
 ### 主要使用方法
 
@@ -214,4 +214,4 @@ hotcss.rem2px(350);
 
 ### 辅助开发资源
 
-- [源网址< 尊重原创 >](https://github.com/imochen/hotcss) -- 如有侵权，请联系[K先生删除](mail:350824110@qq.com)提供
+- [源网址< 尊重原创 >](https://github.com/imochen/hotcss) -- 如有侵权，请联系[K先生删除](//mailTo:350824110@qq.com)
